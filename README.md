@@ -9,6 +9,6 @@ LIFI is a technology uses a light as an medium to transmission of data
 
 ## Screenshots
 
-![App Screenshot](https://github.com/aravintakshan-AG/li-fi/blob/main/20220407_113214.jpg){height="36px" width="36px"}
+<img src="https://github.com/aravintakshan-AG/li-fi/blob/main/20220407_113214.jpg"  width="60%" height="30%">
 
-![App Screenshot](https://github.com/aravintakshan-AG/li-fi/blob/main/20220922_150055.jpg)
+<img src="https://github.com/aravintakshan-AG/li-fi/blob/main/20220922_150055.jpg"  width="60%" height="30%">
